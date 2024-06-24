@@ -53,9 +53,14 @@ body {
     &:hover{
         transition: ease 0.5s;
         color: #640b64
+        a {
+            text-decoration: none;
+        }
     }
 }
 .preto {
     background-color: black;
 }
-
+footer {
+    border: 1px #640b64;
+}

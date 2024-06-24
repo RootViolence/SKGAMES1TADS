@@ -54,7 +54,7 @@
 
     </main>
 </body>
-<footer>
+<footer class="text-center container-fluid">
 
     <p>Desenvolvido Por : <a href="#" target="_blank">Guilherme Mendes</a></p>
 
